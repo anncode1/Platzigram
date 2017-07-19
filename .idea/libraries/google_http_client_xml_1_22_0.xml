@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="google-http-client-xml-1.22.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/wibe-app/dev-tools/gradle/gradle-2.8/caches/modules-2/files-2.1/com.google.http-client/google-http-client-xml/1.22.0/7b84a9282c18b45fd21dc2fa3376871c5de4f479/google-http-client-xml-1.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/wibe-app/dev-tools/gradle/gradle-2.8/caches/modules-2/files-2.1/com.google.http-client/google-http-client-xml/1.22.0/1c80177873b19d054f62fe9e27fc77716e51ccd0/google-http-client-xml-1.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

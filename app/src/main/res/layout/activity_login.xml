@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.platzi.platzigram.LoginActivity"
+    tools:context="com.platzi.platzigram.login.view.LoginActivity"
     android:background="@color/colorPrimary"
     >
 
@@ -90,6 +90,15 @@
                     android:onClick="goHome"
                     />
 
+
+                <com.facebook.login.widget.LoginButton
+                    android:id="@+id/login_facebook"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="30dp" />
+
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -117,6 +126,11 @@
                         android:layout_toRightOf="@+id/dontHaveAccount"
                         android:onClick="goCreateAccount"
                         />
+
+                    <ProgressBar
+                        android:id="@+id/progressbarLogin"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
 
 
                 </RelativeLayout>

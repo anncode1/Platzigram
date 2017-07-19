@@ -14,7 +14,7 @@ import android.widget.TextView;
 
 import com.platzi.platzigram.R;
 import com.platzi.platzigram.model.Picture;
-import com.platzi.platzigram.view.PictureDetailActivity;
+import com.platzi.platzigram.post.view.PictureDetailActivity;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

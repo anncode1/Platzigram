@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.platzi.platzigram.view.CreateAccountActivity">
+    tools:context="com.platzi.platzigram.login.view.CreateAccountActivity">
 
 
 
@@ -112,6 +112,11 @@
                 android:text="@string/text_button_createaccount"
                 android:theme="@style/RaisedButtonDark"
                 />
+
+            <ProgressBar
+                android:id="@+id/progressbarCreateAccount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
 
 
         </LinearLayout>

@@ -16,4 +16,11 @@
     <string name="tab_home">Home</string>
     <string name="tab_profile">Me</string>
     <string name="secondword_detail">Me Gusta</string>
+
+    <string name="login_error">Something happen: </string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Description</string>
+    <string name="text_button_createpost">Create Post</string>
+    <string name="menu_signout">Sign Out</string>
+    <string name="menu_about">About</string>
 </resources>

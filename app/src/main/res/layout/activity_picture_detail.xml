@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.platzi.platzigram.view.PictureDetailActivity">
+    tools:context="com.platzi.platzigram.post.view.PictureDetailActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appBar"

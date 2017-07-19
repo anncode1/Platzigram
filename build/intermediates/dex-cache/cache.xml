@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/proyecto/Platzigram/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27aab99d073f52142d73904063af8c43a6b28a40">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/proyecto/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58529e5813882729cd4603c03c9cdea2a817d24e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/proyecto/Platzigram/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/proyecto/Platzigram/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1eb30e1579a6aeb17a7d0c6b329332eeff1416e8/classes.dex" />
+    </item>
+
+</items>
