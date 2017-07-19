@@ -33,7 +33,7 @@
     <string name="text_button_createpost">Crear Post</string>
 
 
-    <string name="facebook_app_id">430749270656863</string>
+
     <string name="fb_login_protocol_scheme">fb430749270656863</string>
     <string name="menu_signout">Cerrar Sesión</string>
     <string name="menu_about">Acerca de</string>

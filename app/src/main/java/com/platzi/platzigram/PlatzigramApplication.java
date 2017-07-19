@@ -2,6 +2,7 @@ package com.platzi.platzigram;
 
 import android.app.Application;
 import android.support.annotation.NonNull;
+import android.support.compat.*;
 import android.util.Log;
 
 import com.facebook.FacebookSdk;
@@ -43,6 +44,12 @@ public class PlatzigramApplication extends Application {
         };
 
         firebaseStorage = FirebaseStorage.getInstance();
+
+
+
+        Log.w(TAG, "FACEBOOK_APP_ID: " + BuildConfig.FACEBOOK_APP_ID);
+
+
     }
 
 
